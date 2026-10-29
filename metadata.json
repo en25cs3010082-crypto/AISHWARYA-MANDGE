@@ -1,0 +1,6 @@
+{
+  "name": "Global Fuel Prices and Taxation Trends",
+  "description": "Comprehensive global performance and intelligence report examining fuel commodities, regional variations, taxation structures, and subsidy economics across 84 countries from 2020 to 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
